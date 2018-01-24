@@ -30,7 +30,7 @@ or
 
 ### TerraMon-NG (Monitor mode)
 
-# Installation:
+Installation:
 ```
 # sudo cp terramon-ng /usr/bin
 # sudo chmod +x /usr/bin/terramon-ng
